@@ -1,5 +1,13 @@
 [[MUSCLE]]
 arch = "aarch64"
+git-tree-sha1 = "e2006ead2cb9f5c9049546f1ebc834cbf544d88d"
+os = "macos"
+
+    [[MUSCLE.download]]
+    sha256 = "b224c3d2cabc29f55546d53f6687a414c8c19f5666ae8c9d90b445de27fd830d"
+    url = "https://github.com/JuliaBinaryWrappers/MUSCLE_jll.jl/releases/download/MUSCLE-v5.2.0+1/MUSCLE.v5.2.0.aarch64-apple-darwin.tar.gz"
+[[MUSCLE]]
+arch = "aarch64"
 cxxstring_abi = "cxx03"
 git-tree-sha1 = "e59c1a82bce05842585bd8e1f46c68e30f155504"
 libc = "glibc"
@@ -7,7 +15,7 @@ os = "linux"
 
     [[MUSCLE.download]]
     sha256 = "4aa53190ae6a149a0fe58956b2a35c9bb5bcd5500a974c743a8624f56f84e6ac"
-    url = "https://github.com/JuliaBinaryWrappers/MUSCLE_jll.jl/releases/download/MUSCLE-v5.2.0+0/MUSCLE.v5.2.0.aarch64-linux-gnu-cxx03.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/MUSCLE_jll.jl/releases/download/MUSCLE-v5.2.0+1/MUSCLE.v5.2.0.aarch64-linux-gnu-cxx03.tar.gz"
 [[MUSCLE]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
@@ -17,7 +25,7 @@ os = "linux"
 
     [[MUSCLE.download]]
     sha256 = "e0bf5eca47e75bcbbde2226f6bd61d8c3c50d5ecbddc01db62397d610bd89f6a"
-    url = "https://github.com/JuliaBinaryWrappers/MUSCLE_jll.jl/releases/download/MUSCLE-v5.2.0+0/MUSCLE.v5.2.0.aarch64-linux-gnu-cxx11.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/MUSCLE_jll.jl/releases/download/MUSCLE-v5.2.0+1/MUSCLE.v5.2.0.aarch64-linux-gnu-cxx11.tar.gz"
 [[MUSCLE]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
@@ -27,7 +35,7 @@ os = "linux"
 
     [[MUSCLE.download]]
     sha256 = "c9397ac8514a191895c29adaed14ba705157be9079a0a8ff3bba32665f86a63f"
-    url = "https://github.com/JuliaBinaryWrappers/MUSCLE_jll.jl/releases/download/MUSCLE-v5.2.0+0/MUSCLE.v5.2.0.aarch64-linux-musl-cxx03.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/MUSCLE_jll.jl/releases/download/MUSCLE-v5.2.0+1/MUSCLE.v5.2.0.aarch64-linux-musl-cxx03.tar.gz"
 [[MUSCLE]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
@@ -37,135 +45,135 @@ os = "linux"
 
     [[MUSCLE.download]]
     sha256 = "3b61a045b3e251a58e282fd1013dd2a7a7a6bacb965ee059f89bec6e5e5c1997"
-    url = "https://github.com/JuliaBinaryWrappers/MUSCLE_jll.jl/releases/download/MUSCLE-v5.2.0+0/MUSCLE.v5.2.0.aarch64-linux-musl-cxx11.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/MUSCLE_jll.jl/releases/download/MUSCLE-v5.2.0+1/MUSCLE.v5.2.0.aarch64-linux-musl-cxx11.tar.gz"
 [[MUSCLE]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "e643fb154cabd0f2ee43836a9b56a21581eda437"
+git-tree-sha1 = "b1d2a2a58a1eed08ebf853c4107bee5652a6c8ed"
 libc = "glibc"
 os = "linux"
 
     [[MUSCLE.download]]
-    sha256 = "563ade8bab5bae6a9af07844826a08921001fbcbf9e4c56cb8531629a70a795c"
-    url = "https://github.com/JuliaBinaryWrappers/MUSCLE_jll.jl/releases/download/MUSCLE-v5.2.0+0/MUSCLE.v5.2.0.armv6l-linux-gnueabihf-cxx03.tar.gz"
+    sha256 = "6f9f40d3930d417c35c85056bb54ad0c5420ae4a37c9e51824405cbafb5b58d5"
+    url = "https://github.com/JuliaBinaryWrappers/MUSCLE_jll.jl/releases/download/MUSCLE-v5.2.0+1/MUSCLE.v5.2.0.armv6l-linux-gnueabihf-cxx03.tar.gz"
 [[MUSCLE]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "94e7cec64cd0708891bd1d29721d535db722dd3d"
+git-tree-sha1 = "a43832cd3796a322acf7f4cb68accc5f0c46f36f"
 libc = "glibc"
 os = "linux"
 
     [[MUSCLE.download]]
-    sha256 = "0aa3aec5e184ac60728ce7a4dc9709d832d6b6d6e0bae8a4c5d8890259346199"
-    url = "https://github.com/JuliaBinaryWrappers/MUSCLE_jll.jl/releases/download/MUSCLE-v5.2.0+0/MUSCLE.v5.2.0.armv6l-linux-gnueabihf-cxx11.tar.gz"
+    sha256 = "73c8307b851bbf34b3f1db3e2f6e6b27d7d6b2bb20dfb3ddbd2d3ef653715d47"
+    url = "https://github.com/JuliaBinaryWrappers/MUSCLE_jll.jl/releases/download/MUSCLE-v5.2.0+1/MUSCLE.v5.2.0.armv6l-linux-gnueabihf-cxx11.tar.gz"
 [[MUSCLE]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "9b7b0cac97f6c7cce7521185cf58c64de7a3219c"
+git-tree-sha1 = "6d40bae5bc052b0d42dd2ff54c64ef9286c38241"
 libc = "musl"
 os = "linux"
 
     [[MUSCLE.download]]
-    sha256 = "13f148a89c230d4559fa6b99cafec27b3684a1b373c35e19e8ff94da9368ab8a"
-    url = "https://github.com/JuliaBinaryWrappers/MUSCLE_jll.jl/releases/download/MUSCLE-v5.2.0+0/MUSCLE.v5.2.0.armv6l-linux-musleabihf-cxx03.tar.gz"
+    sha256 = "51a2a925114d9f11c73345ca3e35165e04b4b727e9eb86ea01f6710fb1be2890"
+    url = "https://github.com/JuliaBinaryWrappers/MUSCLE_jll.jl/releases/download/MUSCLE-v5.2.0+1/MUSCLE.v5.2.0.armv6l-linux-musleabihf-cxx03.tar.gz"
 [[MUSCLE]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "b1621f07fd4dcfe395b67b6e7be79b7f6f5f97e8"
+git-tree-sha1 = "98582584906b235b9430a323ff9569919382596d"
 libc = "musl"
 os = "linux"
 
     [[MUSCLE.download]]
-    sha256 = "296d377d9b794a12a9d63c09495fc4b497eb2ee8d6b5392fd2ba93a116d215b2"
-    url = "https://github.com/JuliaBinaryWrappers/MUSCLE_jll.jl/releases/download/MUSCLE-v5.2.0+0/MUSCLE.v5.2.0.armv6l-linux-musleabihf-cxx11.tar.gz"
+    sha256 = "16eae76c8dc1e597227be87ba4de63a52f264583e56830544db1ee00fd61bef3"
+    url = "https://github.com/JuliaBinaryWrappers/MUSCLE_jll.jl/releases/download/MUSCLE-v5.2.0+1/MUSCLE.v5.2.0.armv6l-linux-musleabihf-cxx11.tar.gz"
 [[MUSCLE]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "34ac9ac9baa04f5e7247a29592b3038ba94df1cc"
+git-tree-sha1 = "197bd85b156fb0cbbaac9cbe9d5d121b60e6519a"
 libc = "glibc"
 os = "linux"
 
     [[MUSCLE.download]]
-    sha256 = "c2c85edb5024a795ad6c0d7f98f300c1bae10d591d779876e81aa717aef1648f"
-    url = "https://github.com/JuliaBinaryWrappers/MUSCLE_jll.jl/releases/download/MUSCLE-v5.2.0+0/MUSCLE.v5.2.0.armv7l-linux-gnueabihf-cxx03.tar.gz"
+    sha256 = "e96e0830b84ccdb1ce2c793f2803c89937107934de7b415c305da8dfbdd0a913"
+    url = "https://github.com/JuliaBinaryWrappers/MUSCLE_jll.jl/releases/download/MUSCLE-v5.2.0+1/MUSCLE.v5.2.0.armv7l-linux-gnueabihf-cxx03.tar.gz"
 [[MUSCLE]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "f910de7dc22e42900823bd4b9c174aeaaceabe20"
+git-tree-sha1 = "af9d775b2f49fd61781e6f1081a4aeadef2cc93e"
 libc = "glibc"
 os = "linux"
 
     [[MUSCLE.download]]
-    sha256 = "905e2583b5178accc7eed8bc377cfc418dbf864e0824ad5ea4965ac3f85d4d2d"
-    url = "https://github.com/JuliaBinaryWrappers/MUSCLE_jll.jl/releases/download/MUSCLE-v5.2.0+0/MUSCLE.v5.2.0.armv7l-linux-gnueabihf-cxx11.tar.gz"
+    sha256 = "713f75f48d8b9bbfcbdaf0f35affd8f8251416ce55987b396964dca89ce2460e"
+    url = "https://github.com/JuliaBinaryWrappers/MUSCLE_jll.jl/releases/download/MUSCLE-v5.2.0+1/MUSCLE.v5.2.0.armv7l-linux-gnueabihf-cxx11.tar.gz"
 [[MUSCLE]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "b70e0297d733cbc3f8c7b10396fea811beb2b918"
+git-tree-sha1 = "458c2dfae2e2e43253cbcc3d7bca4bbd3c40b497"
 libc = "musl"
 os = "linux"
 
     [[MUSCLE.download]]
-    sha256 = "0282892a257a2c57df1549169fd9189acf4c63d6782ed60ab7e6c8ed2d0aaf2c"
-    url = "https://github.com/JuliaBinaryWrappers/MUSCLE_jll.jl/releases/download/MUSCLE-v5.2.0+0/MUSCLE.v5.2.0.armv7l-linux-musleabihf-cxx03.tar.gz"
+    sha256 = "29ca54055cd6a470371b65799a9b88c94c75632ecceb1b408bcbd7652b56c42e"
+    url = "https://github.com/JuliaBinaryWrappers/MUSCLE_jll.jl/releases/download/MUSCLE-v5.2.0+1/MUSCLE.v5.2.0.armv7l-linux-musleabihf-cxx03.tar.gz"
 [[MUSCLE]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "0ae7327719a3cf0320bc116a0cf1e54e6b31b9cd"
+git-tree-sha1 = "671d4d9ca94201aab8283060520c4bbbf6e8a382"
 libc = "musl"
 os = "linux"
 
     [[MUSCLE.download]]
-    sha256 = "38fa5f7aaf1ebfe03001d1cd37f7e1c130e2aec589348591697f284f3f9d39e8"
-    url = "https://github.com/JuliaBinaryWrappers/MUSCLE_jll.jl/releases/download/MUSCLE-v5.2.0+0/MUSCLE.v5.2.0.armv7l-linux-musleabihf-cxx11.tar.gz"
+    sha256 = "60b2a1f6695671c9c8b146459cee5b3c963d8341543ee9ab7be98f58ff1e7778"
+    url = "https://github.com/JuliaBinaryWrappers/MUSCLE_jll.jl/releases/download/MUSCLE-v5.2.0+1/MUSCLE.v5.2.0.armv7l-linux-musleabihf-cxx11.tar.gz"
 [[MUSCLE]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "46c212af4f5f1baf39725dab9a858eef55d2c298"
+git-tree-sha1 = "ff51d0eb99352dcceb88abc731478dd6ed0f2eef"
 libc = "glibc"
 os = "linux"
 
     [[MUSCLE.download]]
-    sha256 = "7cd8d40f632e6594d7fd925497fdd7a3e0338d285b913cd6caa64a035dfbb7ab"
-    url = "https://github.com/JuliaBinaryWrappers/MUSCLE_jll.jl/releases/download/MUSCLE-v5.2.0+0/MUSCLE.v5.2.0.i686-linux-gnu-cxx03.tar.gz"
+    sha256 = "c6cbe7844fd66a06568d7638cf69bdab02909c494cc2b094a323aa78634e3569"
+    url = "https://github.com/JuliaBinaryWrappers/MUSCLE_jll.jl/releases/download/MUSCLE-v5.2.0+1/MUSCLE.v5.2.0.i686-linux-gnu-cxx03.tar.gz"
 [[MUSCLE]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "d12d331f59ecef4237b7fa651080e5bb7b6a9812"
+git-tree-sha1 = "e332950228c29fccea8652cdeedc5dc2e06d9b98"
 libc = "glibc"
 os = "linux"
 
     [[MUSCLE.download]]
-    sha256 = "99d248a9c38cbb1db0fcb89831270e5af03a8b24dfde6c2d679ab02c2265a8e3"
-    url = "https://github.com/JuliaBinaryWrappers/MUSCLE_jll.jl/releases/download/MUSCLE-v5.2.0+0/MUSCLE.v5.2.0.i686-linux-gnu-cxx11.tar.gz"
+    sha256 = "c5055cfcd99ae1f439973e758e673aea6058f9e9b846e7affac398fbfc14edf3"
+    url = "https://github.com/JuliaBinaryWrappers/MUSCLE_jll.jl/releases/download/MUSCLE-v5.2.0+1/MUSCLE.v5.2.0.i686-linux-gnu-cxx11.tar.gz"
 [[MUSCLE]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "f043521fad7531fef8b834656475c3f10a090e7c"
+git-tree-sha1 = "3789e0cdd126258caa9a2c38488544475c7d91a4"
 libc = "musl"
 os = "linux"
 
     [[MUSCLE.download]]
-    sha256 = "fb5c947942767241448c20d1d8ab5fe3b907ce121fcd420d2e60b82a55d57199"
-    url = "https://github.com/JuliaBinaryWrappers/MUSCLE_jll.jl/releases/download/MUSCLE-v5.2.0+0/MUSCLE.v5.2.0.i686-linux-musl-cxx03.tar.gz"
+    sha256 = "e1409f575233531875804c39c7b07c71f8ad4ccdfc1e31e90a3be7c311a52104"
+    url = "https://github.com/JuliaBinaryWrappers/MUSCLE_jll.jl/releases/download/MUSCLE-v5.2.0+1/MUSCLE.v5.2.0.i686-linux-musl-cxx03.tar.gz"
 [[MUSCLE]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "eb3d911b930d850f97e5d9024a224604132564d0"
+git-tree-sha1 = "82f5128665e3f20ca051d1af786885c363cc5182"
 libc = "musl"
 os = "linux"
 
     [[MUSCLE.download]]
-    sha256 = "b31fe730bb3d21461ca868079a0c601f4137cf475bbccb12aa448183b63e4a94"
-    url = "https://github.com/JuliaBinaryWrappers/MUSCLE_jll.jl/releases/download/MUSCLE-v5.2.0+0/MUSCLE.v5.2.0.i686-linux-musl-cxx11.tar.gz"
+    sha256 = "fb23494556680e3fc087fb7b227c918615cd68b0960bdfe183185a6a989a08c4"
+    url = "https://github.com/JuliaBinaryWrappers/MUSCLE_jll.jl/releases/download/MUSCLE-v5.2.0+1/MUSCLE.v5.2.0.i686-linux-musl-cxx11.tar.gz"
 [[MUSCLE]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx03"
@@ -175,7 +183,7 @@ os = "linux"
 
     [[MUSCLE.download]]
     sha256 = "efd4eab688ac478bcca682ea12ef92fb547c7a63f236aa7eecd5b7fce8875246"
-    url = "https://github.com/JuliaBinaryWrappers/MUSCLE_jll.jl/releases/download/MUSCLE-v5.2.0+0/MUSCLE.v5.2.0.powerpc64le-linux-gnu-cxx03.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/MUSCLE_jll.jl/releases/download/MUSCLE-v5.2.0+1/MUSCLE.v5.2.0.powerpc64le-linux-gnu-cxx03.tar.gz"
 [[MUSCLE]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
@@ -185,44 +193,52 @@ os = "linux"
 
     [[MUSCLE.download]]
     sha256 = "430c267e509e9ace311184773b09bd303fb6ef6bf0b7605395cecaa890c92e5e"
-    url = "https://github.com/JuliaBinaryWrappers/MUSCLE_jll.jl/releases/download/MUSCLE-v5.2.0+0/MUSCLE.v5.2.0.powerpc64le-linux-gnu-cxx11.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/MUSCLE_jll.jl/releases/download/MUSCLE-v5.2.0+1/MUSCLE.v5.2.0.powerpc64le-linux-gnu-cxx11.tar.gz"
+[[MUSCLE]]
+arch = "x86_64"
+git-tree-sha1 = "cd36354e3ee12d594eb08b697c3621709705e356"
+os = "macos"
+
+    [[MUSCLE.download]]
+    sha256 = "d09a10d266913b99a29d63c1a47bd05ab21f735575f9606ba87cf1c90dffa0fb"
+    url = "https://github.com/JuliaBinaryWrappers/MUSCLE_jll.jl/releases/download/MUSCLE-v5.2.0+1/MUSCLE.v5.2.0.x86_64-apple-darwin.tar.gz"
 [[MUSCLE]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "1af942ba1e9643361df796203e9bcd14e0b3e63f"
+git-tree-sha1 = "94df9f83a831bb420804526521e178a1e298f48b"
 libc = "glibc"
 os = "linux"
 
     [[MUSCLE.download]]
-    sha256 = "c3f216222db07d82c5570dab20aceb49171f9a93bac8bce05c162391cd84b459"
-    url = "https://github.com/JuliaBinaryWrappers/MUSCLE_jll.jl/releases/download/MUSCLE-v5.2.0+0/MUSCLE.v5.2.0.x86_64-linux-gnu-cxx03.tar.gz"
+    sha256 = "9314c1f307c88f01496992464af6f48d8e01654a0689bc8bde16bbd04dcdd289"
+    url = "https://github.com/JuliaBinaryWrappers/MUSCLE_jll.jl/releases/download/MUSCLE-v5.2.0+1/MUSCLE.v5.2.0.x86_64-linux-gnu-cxx03.tar.gz"
 [[MUSCLE]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "cc9a908098adc1db6dabcaae59c48434daf09c62"
+git-tree-sha1 = "d82a3891cb60741434fb2d0bf23737c7ed99cfcb"
 libc = "glibc"
 os = "linux"
 
     [[MUSCLE.download]]
-    sha256 = "5734797c556710501ae1a4f277e0413e07e4c4e8b17c9ebe0565a18c04b1a886"
-    url = "https://github.com/JuliaBinaryWrappers/MUSCLE_jll.jl/releases/download/MUSCLE-v5.2.0+0/MUSCLE.v5.2.0.x86_64-linux-gnu-cxx11.tar.gz"
+    sha256 = "8ce6077d679205fd206face84cd3830ab5a7cea4d3412e0527e57c9f9dded67c"
+    url = "https://github.com/JuliaBinaryWrappers/MUSCLE_jll.jl/releases/download/MUSCLE-v5.2.0+1/MUSCLE.v5.2.0.x86_64-linux-gnu-cxx11.tar.gz"
 [[MUSCLE]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "f019329a438b17977202a5c4b237ccbf6e621c10"
+git-tree-sha1 = "7c622edd4882fdeaabba912ff5191d9e633411a1"
 libc = "musl"
 os = "linux"
 
     [[MUSCLE.download]]
-    sha256 = "aaa916dc2944737e32a8bf6d89720d0be1f1fb3d6b8e4aa2428ca35735a08bb0"
-    url = "https://github.com/JuliaBinaryWrappers/MUSCLE_jll.jl/releases/download/MUSCLE-v5.2.0+0/MUSCLE.v5.2.0.x86_64-linux-musl-cxx03.tar.gz"
+    sha256 = "50961be029b51e046c7caec2e08e10f39025018625eb191f941c5ee1124149a9"
+    url = "https://github.com/JuliaBinaryWrappers/MUSCLE_jll.jl/releases/download/MUSCLE-v5.2.0+1/MUSCLE.v5.2.0.x86_64-linux-musl-cxx03.tar.gz"
 [[MUSCLE]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "124f9b3d55048cfc593b30efe48215c1b555bc34"
+git-tree-sha1 = "86a49edc78dc2f31011af8555b6ea7f16d0dfbd4"
 libc = "musl"
 os = "linux"
 
     [[MUSCLE.download]]
-    sha256 = "9ecd47a536abf3e3eb21f7d3d4c666947cc28129f613a3cca1a1e9b8e7748673"
-    url = "https://github.com/JuliaBinaryWrappers/MUSCLE_jll.jl/releases/download/MUSCLE-v5.2.0+0/MUSCLE.v5.2.0.x86_64-linux-musl-cxx11.tar.gz"
+    sha256 = "a140468480880cc30c5f04182196f139f44d6760ffc862944cff35123a6763ca"
+    url = "https://github.com/JuliaBinaryWrappers/MUSCLE_jll.jl/releases/download/MUSCLE-v5.2.0+1/MUSCLE.v5.2.0.x86_64-linux-musl-cxx11.tar.gz"
